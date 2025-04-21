@@ -1,0 +1,1 @@
+program.exe --filename_soilname soil_names.csv --filename_prec prec_arr.csv --filename_pet PET_arr.csv --settings_path settingInfo.txt --filename_soil_params vG_default_params_HYDRUS.csv
