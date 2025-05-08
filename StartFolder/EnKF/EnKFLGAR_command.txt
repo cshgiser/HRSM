@@ -1,1 +1,0 @@
-.\program.exe --filename_soilname soil_names.csv --filename_prec prec_arr.csv --filename_pet PET_arr.csv --filename_sm_sly ssm_sl_arr2D.csv --filename_sm_rly ssm_rly_arr2D.csv --filename_sd_sly sd_sl_arr2D.csv --filename_sd_rly sd_rly_arr2D.csv --settings_path settingInfo.txt  --filename_soil_params vG_default_params_HYDRUS.csv
