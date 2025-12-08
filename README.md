@@ -54,7 +54,7 @@ This folder contains the compiled C++ executables for the physically-based LGAR 
 * **Source Code (C++):**
     * `LGARTOKF_EnKF_signalSite.zip`
     * `LGARTOKF_original_signalSite.zip`
-    * For more details on the LGAR project: [https://github.com/NOAA-OWP/LGAR-C](https://github.com/NOAA-OWP/LGAR-C).
+    * Source C++ code for LGAR and EnKF (for users who want to modify or recompile). For more details, see the official LGAR project: [https://github.com/NOAA-OWP/LGAR-C](https://github.com/NOAA-OWP/LGAR-C).
 
 #### 2. `trainedML` Folder
 
