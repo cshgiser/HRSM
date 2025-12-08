@@ -18,7 +18,7 @@ This repository hosts the framework, code, and trained machine learning models f
 
 Please cite the following paper if you use this framework or its data (APA Style):
 
-Cai, S., Xu, Y., Yang, Z., Crow, W. T., Zhang, Z., Shang, J., Liu, J., La Follette, P., Reberg-Horton, C., Schomberg, H., Mirsky, S., Davis, B., Seehaver, S., Correira, A., Basche, A., Waggoner, A., Ellis, C., Park, D., Treadwell, D. D., Campbell, D., Presley, D., Henriquez Inoa, E. L., Darby, H., Adam, J., Miller, J., Haymaker, J., Wallace, J., Gaskin, J., Balkcom, K. S., Ruhl, L., Reiter, M., Ruark, M., Flessner, M., Sias, C., Davis, P., Tomlinson, P., Smith, R. G., Warren, N. D., Dierking, R., Armstrong, S., Almeida, T., & Huang, J. (2026). High-resolution surface and rootzone soil moisture over US cropland: A novel framework assimilating multi-source remote sensing data, machine learning, and the Layered Green and Ampt Infiltration with Redistribution model. *Remote Sensing of Environment*, *334*, 115167. https://doi.org/10.1016/j.rse.2025.115167
+Cai, S., Xu, Y., Yang, Z., Crow, W. T., Zhang, Z., Shang, J., Liu, J., La Follette, P., Reberg-Horton, C., ..., & Huang, J. (2026). High-resolution surface and rootzone soil moisture over US cropland: A novel framework assimilating multi-source remote sensing data, machine learning, and the Layered Green and Ampt Infiltration with Redistribution model. *Remote Sensing of Environment*, *334*, 115167. https://doi.org/10.1016/j.rse.2025.115167
 
 ---
 
@@ -26,8 +26,7 @@ Cai, S., Xu, Y., Yang, Z., Crow, W. T., Zhang, Z., Shang, J., Liu, J., La Follet
 
 The overall workflow of the HRSM framework is illustrated below:
 
-
-
+![Flowchart](Figures/Figure02.jpeg)
 ---
 
 ### 📁 Repository Structure and Usage
